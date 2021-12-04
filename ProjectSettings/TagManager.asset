@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Myplayer
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - fire
+  - Enemy
+  - Warps
+  - LimitePuzzle
+  - Lever
+  - Platform
+  - Nextlevel
+  - NotSpawnPortals
+  - TerrainFall
+  - Respawn
+  - Limit2
+  - WalkingZone
+  - Platfeeler
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

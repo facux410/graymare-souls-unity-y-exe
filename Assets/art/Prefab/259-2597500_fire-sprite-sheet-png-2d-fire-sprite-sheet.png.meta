@@ -1,0 +1,1497 @@
+fileFormatVersion: 2
+guid: da280d1d6160d2b419e688ce0df2fcfa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_0
+    21300002: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_1
+    21300004: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_2
+    21300006: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_3
+    21300008: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_4
+    21300010: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_5
+    21300012: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_6
+    21300014: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_7
+    21300016: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_8
+    21300018: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_9
+    21300020: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_10
+    21300022: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_11
+    21300024: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_12
+    21300026: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_13
+    21300028: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_14
+    21300030: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_15
+    21300032: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_16
+    21300034: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_17
+    21300036: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_18
+    21300038: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_19
+    21300040: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_20
+    21300042: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_21
+    21300044: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_22
+    21300046: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_23
+    21300048: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_24
+    21300050: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_25
+    21300052: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_26
+    21300054: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_27
+    21300056: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_28
+    21300058: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_29
+    21300060: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_30
+    21300062: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_31
+    21300064: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_32
+    21300066: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_33
+    21300068: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_34
+    21300070: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_35
+    21300072: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_36
+    21300074: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_37
+    21300076: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_38
+    21300078: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_39
+    21300080: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_40
+    21300082: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_41
+    21300084: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_42
+    21300086: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_43
+    21300088: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_44
+    21300090: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_45
+    21300092: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_46
+    21300094: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_47
+    21300096: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_48
+    21300098: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_49
+    21300100: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_50
+    21300102: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_51
+    21300104: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_52
+    21300106: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_53
+    21300108: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_54
+    21300110: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_55
+    21300112: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_56
+    21300114: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_57
+    21300116: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_58
+    21300118: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_59
+    21300120: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_60
+    21300122: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_61
+    21300124: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_62
+    21300126: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_63
+    21300128: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_64
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 885
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282c1b71a82dd043a79b1441ac00497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 635
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf18a3626332e41a3d1a2c35faa420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 753
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7463785c93724a92b82bd88c1daba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 749
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc2720afe9ae84691585eaa3ea20e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 375
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36158c212b0564c8896c296ccc8b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 510
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc71d535ce4a4a43af064eca5a3b349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f66983b18865146910f78ba489bea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c7c264a994a24bbec25555aac07b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 121
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220bb4e66d225248ae13f6eb3303cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 881
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc80f6835a61dc46b49777b3f5a5fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 885
+        width: 121
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f292ad795f3d649aa34b126b03b98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 882
+        width: 123
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a00cf139a96bb4f9c6ba635023ecce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 883
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afaa4a8ac75a3428054dc579ec3464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 882
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e8bc69b4cecc44935ff97b14c7957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 878
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f43d90226410c41aaca17c4f4d4097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 885
+        width: 122
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab6fc4ccf0f1c43a2efe1be79fcdfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 762
+        width: 119
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353057ef149281498d9970031b1922f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 762
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad5f99d7b6ec44591b45ffbcdda923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 759
+        width: 115
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e535b3273e66cc4a930de8ec54bda05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 760
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a739897d7761854792693c4d5c259b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 762
+        width: 120
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75a3981bc87f054ba5319669799ba1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 762
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584b2d9814b24d944be26f580cf667d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 763
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afa1a1799c1ac4a87a3a4c40cface3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 636
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3152f13e51a8f4ebe48851dce2e6bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 636
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf49d4022b968488f71ceac98d77b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 635
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01559775e9ec07d499c3b8ff2e47fb92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 636
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e55a51f10feda449966511efc05f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 636
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e941c345fb82fc4e936f73c149ad07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 639
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d5796834ef234ca37058938decc99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 637
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf8bb7a74218c46a2219af0bb8bc67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 506
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6655b3959fc84e9a6906a86c27260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 508
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58f849b263375a43a511b43dd565794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 507
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561b844fb980904bb0aa1aacbcfcf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 505
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53767446262abb84faefa399f779ce82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 507
+        width: 110
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa41ab9158c7f438fc0fbdf0f6c63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 507
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681199de46c360347a948949122a046d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 509
+        width: 116
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaa06f775144944878b640ee491458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 376
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426191f960ab0e94fa276aee27fb5326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 379
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153940049e56667458fec6ad503ef438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 376
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe91a0bf9530024ebe14dcf5c44f806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 379
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34c5da702114f47bac526980cacea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 377
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc9e02e3793d74b9f04a564adaeb39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 379
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60078c808a483409a4e06d73731920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 379
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0db705acd426348a15c92b65e45270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 250
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83a180f0ca6044785ded7b7d2487f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 250
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14033ab9c407a074b9bbb29691683db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 251
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142cf080083541408495ecb912d530f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4297f6890d5dab409a90c325e190224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42600f86bbca8143a3184dc200a406b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 122
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0116395184f9459c666a0d0420c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 122
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5795fb75701a4693d3693a53898a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 123
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc48a26f21d75448572edf9eaac93b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 251
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a6f1dc90d22347a6efc9da5bdc668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 253
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d031e4a49cb84c9c6ad272580c30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 253
+        width: 119
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9adb94f61cc3740aed2b258e8e3a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 251
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e336ad0e8e3d4468ed352358f84492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 121
+        width: 113
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583efa13d7d56fe43907047ecf5e6c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 127
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a8e89a437b554e893a87a3b8170dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba14b49d7ba2e04f96ab4ffa269c211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddee1867b3311c44a2ca4b6efa66048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08604398a746f4ebc2f6081323105e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62826a147722744795a750307b195dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83560916124444fb2014447fa0ea3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88d15a27721244e95732b648565784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 259-2597500_fire-sprite-sheet-png-2d-fire-sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 118
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5917b9e1ac9441a3be32aa1651ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 62e3bc45f67a305409c7de592e2a9a88
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
